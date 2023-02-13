@@ -1,2 +1,1 @@
-import countriesDetails from "./exportArray.mjs";
-console.log(countriesDetails);
+import myArray from "./exportArray.mjs";
